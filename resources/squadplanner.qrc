@@ -1,0 +1,28 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+	
+  <file>images/manual-black.png</file>
+  <file>images/camera-black.png</file>
+  <file>images/dive-black.png</file>
+  <file>images/waypoint-black.png</file>
+
+  <file>images/manual-green.png</file>
+  <file>images/camera-green.png</file>
+  <file>images/dive-green.png</file>
+  <file>images/waypoint-green.png</file>
+
+  <file>images/manual-white.png</file>
+  <file>images/camera-white.png</file>
+  <file>images/dive-white.png</file>
+  <file>images/waypoint-white.png</file>
+
+  <file>images/manual-grey.png</file>
+  <file>images/camera-grey.png</file>
+  <file>images/dive-grey.png</file>
+  <file>images/waypoint-grey.png</file>
+
+	
+  <file>images/planner.png</file>
+
+</qresource>
+</RCC>
