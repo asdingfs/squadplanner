@@ -1,6 +1,6 @@
-HEADERS       = mainwindow.h
-SOURCES       = main.cpp \
-                mainwindow.cpp
+HEADERS       = ../src/mainwindow.h
+SOURCES       = ../src/main.cpp \
+                ../src/mainwindow.cpp
 RESOURCES     = squadplanner.qrc
 
 # install
