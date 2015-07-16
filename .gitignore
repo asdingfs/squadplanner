@@ -51,3 +51,9 @@ Makefile
 # Application #
 ###############
 squadplanner
+
+
+# References #
+##############
+ignore/
+ignore/*
